@@ -1,7 +1,7 @@
 # Srazy.app Project
 
 <p align="center">
-<img src="https://srazy.app/android-chrome-192x192.png" width="150px"/>
+<img src="https://srazy.app/media/web/logo_g.svg" width="350px"/>
 </p>
 
 Issues and feature requests for [https://srazy.app](https://srazy.app) website.
